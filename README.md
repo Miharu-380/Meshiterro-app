@@ -1,24 +1,28 @@
-# README
+# Meshiterro
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
 
-Things you may want to cover:
+食べ物の写真投稿サイト　（DMMWEBCAMP学習）
 
-* Ruby version
+### ページ構成
 
-* System dependencies
+- ログイン画面
+- 新規登録画面
+- 投稿一覧画面
+- 投稿画面
+- マイページ画面
+- プロフィール編集画面
+- 投稿詳細画面
 
-* Configuration
+### 実装機能
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- 投稿一覧
+- 投稿詳細
+- 投稿の編集
+- 投稿の削除
+- コメント機能（同期）
+- いいね機能　（同期）
+- ユーザ登録
+- ログイン
+- マイページ
+- プロフィール編集
